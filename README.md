@@ -1,0 +1,2 @@
+# ChineseLyricsGenerator
+利用GRU自然語言生成模型，利用羅志祥過去歌曲歌詞，生成仿羅志祥創作的中文歌詞
